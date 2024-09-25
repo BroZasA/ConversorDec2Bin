@@ -10,7 +10,7 @@ urna eu, accumsan malesuada felis.
 -Lo convierte a binario
 -Lo devuelve
 
-!([](https://media.tenor.com/mneJdPL_PK8AAAAM/blackbeard-black.gif))
+!(https://myoctocat.com/assets/images/base-octocat.svg)
 
 :shipit: :shipit: :shipit:
 
