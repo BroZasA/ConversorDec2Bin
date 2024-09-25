@@ -6,9 +6,9 @@ quis quam ut, congue sollicitudin mi. ~~Pellentesque augue neque~~, vulputate vi
 diam. In dignissim dignissim vehicula. Aliquam leo erat, vulputate eu accumsan quis, iaculis sit amet augue. Cras a scelerisque orci, eget fermentum purus. Sed dolor orci, convallis non 
 urna eu, accumsan malesuada felis. 
 
-*Introduce número
-Lo convierte a binario
-Lo devuelve
+* Introduce número
+* Lo convierte a binario
+* Lo devuelve
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
