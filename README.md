@@ -10,7 +10,7 @@ urna eu, accumsan malesuada felis.
 -Lo convierte a binario
 -Lo devuelve
 
-!(https://preview.redd.it/blackbeard-writing-his-heresy-v0-3ijx4fmucmtb1.jpg)
+!((https://media.tenor.com/mneJdPL_PK8AAAAM/blackbeard-black.gif))
 
 :shipit: :shipit: :shipit:
 
